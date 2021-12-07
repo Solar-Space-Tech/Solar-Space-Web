@@ -13,7 +13,7 @@
 - Vue Router
 - [axios](https://axios-http.com/)
 - [foxone/mixin-sdk-jsbridge](https://github.com/fox-one/mixin-sdk-jsbridge)
-- [foxone/uikit](https://github.com/fox-one/uikit)
+- [foxone/uikit](https://github.com/fox-one/uikit)->UI组件库
 
 ## 版本号和自动部署  
 自动部署激活条件为新的推送含有一定规则的 tag，规则为“v重大更新.新增功能.小修改和bug修复”（如 v0.2.4 表示增加两个功能后的小版本后又有新的四回小修改）的三段式。  
