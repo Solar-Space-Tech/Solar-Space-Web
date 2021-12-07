@@ -19,4 +19,4 @@
 自动部署激活条件为新的推送含有一定规则的 tag，规则为“v重大更新.新增功能.小修改和bug修复”（如 v0.2.4 表示增加两个功能后的小版本后又有新的四回小修改）的三段式。  
 细碎的、小提交不需要打标签，而且不会自动部署，另外，如内测版本的 tag 遵顼 alphax.y.z的三段式（如 alpha0.2.4）也不会自动部署。  
 
-链接：[common.js-Documentation]()
+链接：[common.js-Documentation](https://github.com/Solar-Space-Tech/Solar-Space-Web/blob/master/common.js-Documentation.md)
